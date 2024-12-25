@@ -8,7 +8,7 @@ exports[`Test MobileMenu > should initialize with welcome screen and hide once u
     class="welcome-screen-center__logo excalifont welcome-screen-decor"
   >
     <div
-      class="ExcalidrawLogo is-small"
+      class="ExcalidrawLogo is-small "
     >
       <svg
         class="ExcalidrawLogo-icon"
